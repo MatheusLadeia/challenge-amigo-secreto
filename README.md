@@ -30,3 +30,4 @@ Este é um projeto simples de sorteio de amigo secreto, onde você pode adiciona
 
 3. Adicione os nomes dos amigos na lista e clique em **Sortear Amigo** para ver quem você tirou.
 
+Link do deploy no VERCEL: https://challenge-amigo-secreto-gamma.vercel.app
